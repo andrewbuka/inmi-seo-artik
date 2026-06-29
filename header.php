@@ -2,12 +2,12 @@
 <html lang="ru">
 <head>
 	<meta charset="UTF-8">
-	<title>SugarSite</title>
+	<title><?php echo isset($GLOBALS['inmi_custom_title']) ? esc_html($GLOBALS['inmi_custom_title']) : 'SugarSite'; ?></title>
 
     <?php wp_head() ?>
 	<!-- =================== META =================== -->
 	<meta name="keywords" content="">
-	<meta name="description" content="">
+	<meta name="description" content="<?php echo isset($GLOBALS['inmi_custom_description']) ? esc_attr($GLOBALS['inmi_custom_description']) : ''; ?>">
 	<meta name="format-detection" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="shortcut icon" href="assets/img/sgr.png">
