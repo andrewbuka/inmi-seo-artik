@@ -24,7 +24,7 @@
         </div>
         <ul class="breadcrambs">
             <li><a href="<?php echo get_page_link(8); ?>">Главная</a></li>
-            <li><a href="/category/inmi-znaniya/">InMi-знания</a></li>
+            <li><a href="/inmi-knowledge/">InMi-знания</a></li>
             <li>Питательность силоса</li>
         </ul>
     </div>

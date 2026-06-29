@@ -250,12 +250,12 @@
 					<h2 class="title knowledge-title">InMi-знания</h2>
 					<p class="knowledge-lead">Практические материалы о микробиологических решениях для растениеводства, животноводства, экологии и промышленной биотехнологии.</p>
 				</div>
-				<a class="knowledge-all-link" href="/category/inmi-znaniya/">Все статьи <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+				<a class="knowledge-all-link" href="/inmi-knowledge/">Все статьи <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
 			</div>
 
 			<div class="knowledge-grid">
 				<article class="knowledge-card knowledge-card-featured wow fadeInUp lazy" data-wow-duration=".8s" data-wow-delay=".12s">
-					<a class="knowledge-card-link" href="/category/inmi-znaniya/" aria-label="Микробиологические решения для устойчивого растениеводства">
+					<a class="knowledge-card-link" href="/inmi-knowledge/" aria-label="Микробиологические решения для устойчивого растениеводства">
 						<span class="knowledge-card-number">01</span>
 						<span class="knowledge-card-meta"><i class="fa fa-calendar" aria-hidden="true"></i> InMi-знания</span>
 						<h3>Микробиологические решения для устойчивого растениеводства</h3>
@@ -265,7 +265,7 @@
 				</article>
 
 				<article class="knowledge-card wow fadeInUp lazy" data-wow-duration=".8s" data-wow-delay=".18s">
-					<a class="knowledge-card-link" href="/category/inmi-znaniya/" aria-label="Биотехнологии в животноводстве">
+					<a class="knowledge-card-link" href="/inmi-knowledge/" aria-label="Биотехнологии в животноводстве">
 						<span class="knowledge-card-number">02</span>
 						<span class="knowledge-card-meta"><i class="fa fa-calendar" aria-hidden="true"></i> InMi-знания</span>
 						<h3>Биотехнологии в животноводстве</h3>
@@ -275,7 +275,7 @@
 				</article>
 
 				<article class="knowledge-card wow fadeInUp lazy" data-wow-duration=".8s" data-wow-delay=".24s">
-					<a class="knowledge-card-link" href="/category/inmi-znaniya/" aria-label="Экологические проекты и очистка воды">
+					<a class="knowledge-card-link" href="/inmi-knowledge/" aria-label="Экологические проекты и очистка воды">
 						<span class="knowledge-card-number">03</span>
 						<span class="knowledge-card-meta"><i class="fa fa-calendar" aria-hidden="true"></i> InMi-знания</span>
 						<h3>Экологические проекты и очистка воды</h3>
@@ -285,7 +285,7 @@
 				</article>
 
 				<article class="knowledge-card wow fadeInUp lazy" data-wow-duration=".8s" data-wow-delay=".3s">
-					<a class="knowledge-card-link" href="/category/inmi-znaniya/" aria-label="Промышленная микробиология">
+					<a class="knowledge-card-link" href="/inmi-knowledge/" aria-label="Промышленная микробиология">
 						<span class="knowledge-card-number">04</span>
 						<span class="knowledge-card-meta"><i class="fa fa-calendar" aria-hidden="true"></i> InMi-знания</span>
 						<h3>Промышленная микробиология</h3>
@@ -295,7 +295,7 @@
 				</article>
 
 				<article class="knowledge-card wow fadeInUp lazy" data-wow-duration=".8s" data-wow-delay=".36s">
-					<a class="knowledge-card-link" href="/category/inmi-znaniya/" aria-label="Практика применения биопрепаратов">
+					<a class="knowledge-card-link" href="/inmi-knowledge/" aria-label="Практика применения биопрепаратов">
 						<span class="knowledge-card-number">05</span>
 						<span class="knowledge-card-meta"><i class="fa fa-calendar" aria-hidden="true"></i> InMi-знания</span>
 						<h3>Практика применения биопрепаратов</h3>
